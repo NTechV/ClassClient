@@ -1,4 +1,0 @@
-/.vs
-/debug/
-/x64/
-/debug/x86
