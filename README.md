@@ -20,7 +20,8 @@ else an linker error may occur.
 
 To run:
 
-Run from either cmd or visual studio 2022 but don't run directly because there is no function to pause the program which means that it will exit/
+Run from either cmd or visual studio 2022 but don't run directly because there is no function to pause the program which means that it will exit so you won't be able
+to see the output.
 
 
 
